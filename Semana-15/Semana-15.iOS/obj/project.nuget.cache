@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVA8zvDZXhwciyxb5ebQ8LiCtdn05JloQbJmsmlLj6VU1U3+vTfkcNzIBIA0GkKG0zfQTDhyA/oATZhcbc2pbw==",
+  "success": true,
+  "projectFilePath": "D:\\5ciclo\\Aplicaciones Moviles Multiplataforma\\Proyectos\\Semana-15\\Semana-15\\Semana-15.iOS\\Semana-15.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
